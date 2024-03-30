@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="ButtonVector.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.24094753"
+     inkscape:cx="-595.56535"
+     inkscape:cy="969.09066"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15"
+     inkscape:export-bgcolor="#ffffff0e" />
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter12"
+       x="-0.016526159"
+       y="-0.016526159"
+       width="1.0330523"
+       height="1.0330523">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.13771799"
+         id="feGaussianBlur12" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Tầng Lớp 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g12"
+       inkscape:export-filename="g12.png"
+       inkscape:export-xdpi="24.423077"
+       inkscape:export-ydpi="24.423077">
+      <rect
+         style="fill:#e7dfe5;fill-rule:evenodd;stroke-width:2;opacity:0.99;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-dasharray:0.5,0.5;stroke-linejoin:round;stroke-linecap:round;paint-order:fill markers stroke;stroke-dashoffset:0"
+         id="rect1"
+         width="50"
+         height="50"
+         x="13.588235"
+         y="43.482353" />
+      <rect
+         style="fill:#dd4814;fill-rule:evenodd;stroke-width:0;stroke:#000000;filter:url(#filter12);stroke-dasharray:none;stroke-opacity:1"
+         id="rect4"
+         width="20"
+         height="20"
+         x="29.311762"
+         y="58.235294" />
+      <g
+         id="g14"
+         inkscape:export-filename="StartButton.png"
+         inkscape:export-xdpi="928.0769"
+         inkscape:export-ydpi="928.0769">
+        <g
+           id="g15"
+           inkscape:export-filename="StartButton.png"
+           inkscape:export-xdpi="928.0769"
+           inkscape:export-ydpi="928.0769">
+          <rect
+             style="opacity:0.99;fill:#36e707;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stroke-miterlimit:50"
+             id="rect1-0"
+             width="50"
+             height="50"
+             x="14.181128"
+             y="104.3076" />
+          <path
+             sodipodi:type="star"
+             style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:1.29653;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+             id="path12"
+             inkscape:flatsided="true"
+             sodipodi:sides="3"
+             sodipodi:cx="85.605888"
+             sodipodi:cy="54.547058"
+             sodipodi:r1="23.100815"
+             sodipodi:r2="11.550408"
+             sodipodi:arg1="-0.0084031635"
+             sodipodi:arg2="1.0387944"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="M 108.70589,54.35294 74.224,74.649303 73.887778,34.638931 Z"
+             inkscape:transform-center-x="-3.580755"
+             inkscape:transform-center-y="0.075157234"
+             transform="matrix(0.62920223,0,0,0.77435697,-16.23896,86.295784)"
+             inkscape:export-filename="StartButton.png"
+             inkscape:export-xdpi="24.423077"
+             inkscape:export-ydpi="24.423077" />
+          <g
+             id="g16"
+             inkscape:export-filename="PauseButton.png"
+             inkscape:export-xdpi="24.423077"
+             inkscape:export-ydpi="24.423077">
+            <rect
+               style="opacity:0.99;fill:#e72607;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:50;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+               id="rect1-0-1"
+               width="50"
+               height="50"
+               x="13.930952"
+               y="165.63727" />
+            <rect
+               style="fill:#fdfdff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+               id="rect15"
+               width="9.8828573"
+               height="29.923094"
+               x="27.864166"
+               y="174.73441" />
+            <rect
+               style="fill:#fdfdff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+               id="rect15-8"
+               width="9.8828573"
+               height="29.923094"
+               x="41.420536"
+               y="174.95178" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
